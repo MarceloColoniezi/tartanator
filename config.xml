@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding="UTF-8">
+<widget xmlns	=	"http://www.w3.org/ns/widgets"
+		xmlns:gap	=	"http://phonegap.com/ns/1.0"
+		id		=	"com.hfmw.tartanator"
+		version		=	"1.0.0">
+ 	<name>Tartanator</name>
+	<description></description>
+	<author href="impacta.edu.br"
+		email="">Marcelo Coloniezi
+
+	</author>
+	<icon src="ico.jpg" height="114" width="114">
+</widget>
